@@ -1,5 +1,5 @@
 ## Harvard CS50: Introduction to Computer Science
-___
+
 - EdX
 - Certificate (Coming soom)
 ___
